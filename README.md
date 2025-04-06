@@ -19,11 +19,11 @@ This repository provides a guide to building a full-stack Project Management Das
 <h4>
     <a href="https://slideproject.vercel.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Project-Management-App/blob/master/README.md">Documentation</a>
+    <a href="https://github.com/feellight79/ProjectManagementApp/blob/master/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Project-Management-App/issues">Report Bug</a>
+    <a href="https://github.com/feellight79/ProjectManagementApp/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Project-Management-App/issues">Request Feature</a>
+    <a href="https://github.com/feellight79/ProjectManagementApp/issues">Request Feature</a>
   </h4>
 </div>
 
@@ -203,13 +203,13 @@ Install dependencies
 Clone the project
 
 ```bash
-  https://github.com/SashenJayathilaka/Project-Management-App.git
+  https://github.com/feellight79/ProjectManagementApp.git
 ```
 
 change directory
 
 ```bash
-  cd Project-Management-App
+  cd ProjectManagementApp
 ```
 
 Install dependencies
@@ -263,9 +263,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - feellight7995@gmail.com
 
-Project Link: [https://github.com/SashenJayathilaka/Project-Management-App.git](https://github.com/SashenJayathilaka/Project-Management-App.git)
+Project Link: [https://github.com/feellight79/ProjectManagementApp.git](https://github.com/feellight79/ProjectManagementApp.git)
 
 <br />
 
