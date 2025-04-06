@@ -263,7 +263,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - feellight7995@gmail.com
+Roman - [@twitter_handle](https://twitter.com/SashenHasinduJ) - feellight79@gmail.com
 
 Project Link: [https://github.com/feellight79/ProjectManagementApp.git](https://github.com/feellight79/ProjectManagementApp.git)
 
